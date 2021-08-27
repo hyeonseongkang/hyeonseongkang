@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HyeonSeong Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang)]
+[HyeonSeong Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseongkang)
+
