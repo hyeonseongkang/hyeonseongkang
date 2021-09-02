@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![HyeonSeong Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseongkang&langs_count=10&layout=compact&theme=dark)(https://github.com/hyeonseongkang/hyeonseongkang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseongkang&langs_count=10&layout=compact&theme=dark) (https://github.com/hyeonseongkang/hyeonseongkang)
 
 
 
