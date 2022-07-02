@@ -1,5 +1,29 @@
-# 👋 안녕하세요!
 
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=00AC47&text=%20Hello!%20&fontAlignY=30&desc=I'm%20HyeonSeongKang&descAlignY=50&height=200&fontSize=60&fontColor=ffffff)
+
+<h2> :computer: Skill 
+<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+
+<br>
+
+<h2> :pencil2: Studying
+<br>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+
+<br>
+<br>
+
+![HyeonSeong kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang&theme=dark&show_icons=true)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00AC47)
+</div>
 <!--
 **hyeonseongkang/hyeonseongkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang&show_icons=true&include_all_commits=true&count_private=true")
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseongkang&layout=compact&hide=Visual%20Basic)
-
-
