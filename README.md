@@ -3,8 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00AC47&text=%20Hello!%20&fontAlignY=30&desc=I'm%20HyeonSeongKang&descAlignY=50&height=200&fontSize=60&fontColor=ffffff)
 
-<h2> :computer: Skill 
-<br>
+## :computer: Skill 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -13,8 +12,7 @@
 
 <br>
 
-<h2> :pencil2: Studying
-<br>
+## :pencil2: Studying
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 
