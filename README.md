@@ -3,6 +3,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00AC47&text=%20Hello!%20&fontAlignY=30&desc=I'm%20HyeonSeongKang&descAlignY=50&height=200&fontSize=60&fontColor=ffffff)
 
+![HyeonSeong kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang&theme=dark&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lol101)](https://solved.ac/lol101/)
+
 ## :computer: Skill 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -19,13 +22,16 @@
 <br>
 <br>
 
-![HyeonSeong kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang&theme=dark&show_icons=true)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonseongkang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00AC47)
 </div>
 
+
+
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonseongkang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 </div>
 
