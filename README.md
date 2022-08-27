@@ -4,9 +4,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00AC47&text=%20Hello!%20&fontAlignY=30&desc=I'm%20HyeonSeongKang&descAlignY=50&height=200&fontSize=60&fontColor=ffffff)
 
-![HyeonSeong kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang&theme=dark&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lol101)](https://solved.ac/lol101/)
-
 ## :computer: Skill 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -16,6 +13,12 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 
 <br>
+<br>
+
+![HyeonSeong kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang&theme=dark&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lol101)](https://solved.ac/lol101/)
+
+
 
 <br>
 
