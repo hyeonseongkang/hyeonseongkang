@@ -1,6 +1,7 @@
 
 <div align=center>
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00AC47&text=%20Hello!%20&fontAlignY=30&desc=I'm%20HyeonSeongKang&descAlignY=50&height=200&fontSize=60&fontColor=ffffff)
 
 ![HyeonSeong kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang&theme=dark&show_icons=true)
@@ -12,14 +13,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-
-<br>
-
-## :pencil2: Studying
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 
 <br>
+
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonseongkang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
