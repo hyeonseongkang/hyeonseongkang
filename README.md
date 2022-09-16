@@ -1,10 +1,10 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00AC47&text=%20HyeonSeong%20Kang&fontAlignY=35&height=200&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0082FC&text=%20HyeonSeong%20Kang&fontAlignY=35&height=200&fontSize=60&fontColor=ffffff)
 
 👋 안녕하세요, 
-<br>📱모바일 개발자가 되기 위해 공부하고 있는 강현성입니다.
+<br>📱모바일 개발자를 꿈꾸며 공부하는 강현성입니다.
 
 ## :computer: Skills
 ### Platforms
@@ -22,7 +22,7 @@
 
 ![HyeonSeong kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseongkang&theme=dark&show_icons=true)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lol101)](https://solved.ac/lol101/) 😄
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00AC47)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0082FC)
 </div>
 
 <!--
